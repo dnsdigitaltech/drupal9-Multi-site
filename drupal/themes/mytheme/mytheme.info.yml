@@ -16,3 +16,4 @@ regions:
 
 libraries:
   - mytheme/global-css
+  #- mytheme/pacifico
