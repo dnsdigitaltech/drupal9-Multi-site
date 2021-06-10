@@ -7,7 +7,7 @@ core_version_requirement: ^8 || ^9
 package: core
 base theme: false
 libraries: 
-  -sphynx/styling
+  -drupalrj/styling
   regions: 
     header: Header
     menu: Main Menu
