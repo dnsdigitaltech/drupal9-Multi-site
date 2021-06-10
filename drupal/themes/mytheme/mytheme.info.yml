@@ -1,0 +1,7 @@
+name: Meu Grande Theme
+description: 'Desenvolvido por:  <a href=http://www.dnsdigitaltech.com.br/>DNS DIGITAL TECH</a>'
+type: theme
+version: VERSION
+core_version_requirement: ^8 || ^9
+base theme: stable
+screenshot: mytheme.png
