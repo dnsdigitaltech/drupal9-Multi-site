@@ -15,4 +15,4 @@ regions:
   page_bottom: Page bottom
 
 libraries:
-  - mytheme/global.css
+  - mytheme/global-css
