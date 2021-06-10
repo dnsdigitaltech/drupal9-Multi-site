@@ -1,4 +1,4 @@
-# Drupal 9 Multi-site e CRiando um tema
+# Drupal 9 Multi-site e Criando um tema
 
 1 - Crie dois diretórios onde ficara os seus sites na raiz ex: wonders, footballclub
 
