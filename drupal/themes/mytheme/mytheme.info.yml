@@ -5,3 +5,11 @@ version: VERSION
 core_version_requirement: ^8 || ^9
 base theme: stable
 screenshot: mytheme.png
+
+regions:
+  header: Header
+  content: Content
+  sidebar_first: Sidebar
+  footer: Footer
+  page_top: Page top
+  page_bottom: Page bottom
