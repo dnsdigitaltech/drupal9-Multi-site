@@ -1,13 +1,12 @@
 name: Endymion
-description: 'Desenvolvido por:  <a href=http://www.dnsdigitaltech.com.br/>DNS DIGITAL TECH</a>'
+description: Drupal 8 Starter Theme
 type: theme
 version: VERSION
 core_version_requirement: ^8 || ^9
 base theme: false
-screenshot: mytheme.png
-
-libraries: 
+libraries:
   - endymion/global-css
   - endymion/global-js
 stylesheets-remove:
-  - link css que será removido
+  - core/themes/stable/css/views/views.module.css
+  - core/themes/stable/css/system/components/align.module.css
