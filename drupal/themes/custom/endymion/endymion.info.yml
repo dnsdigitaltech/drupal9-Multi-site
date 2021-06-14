@@ -5,8 +5,9 @@ version: VERSION
 core_version_requirement: ^8 || ^9
 base theme: false
 screenshot: mytheme.png
+
 libraries: 
   - endymion/global-css
   - endymion/global-js
-#stylesheets-remove:
-#  - link css que será removido
+stylesheets-remove:
+  - link css que será removido

@@ -19,7 +19,7 @@
 /wonders/themes/contrib/
 /wonders/profiles/contrib/
 /wonders/libraries/
-
+/drupal/node_modules
 
 # Ignore sensitive information
 /drupal/sites/*/settings.php
@@ -34,12 +34,13 @@
 /drupal/sites/*/files/
 /footballclub/sites/*/files/
 /wonders/sites/*/files/
+/wonders/node_modules
 
 # Ignore SimpleTest multi-site environment
 /drupal/sites/simpletest
 /footballclub/sites/simpletest
 /wonders/sites/simpletest
-
+/footballclub/node_modules
 # Ignore .env files as they are personal
 /.env
 /.editorconfig
