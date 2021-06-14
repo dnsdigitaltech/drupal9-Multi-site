@@ -1,0 +1,12 @@
+name: Endymion
+description: 'Desenvolvido por:  <a href=http://www.dnsdigitaltech.com.br/>DNS DIGITAL TECH</a>'
+type: theme
+version: VERSION
+core_version_requirement: ^8 || ^9
+base theme: false
+screenshot: mytheme.png
+libraries: 
+  - endymion/global-css
+  - endymion/global-js
+#stylesheets-remove:
+#  - link css que será removido

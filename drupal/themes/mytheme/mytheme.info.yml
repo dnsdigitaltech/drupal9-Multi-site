@@ -3,13 +3,15 @@ description: 'Desenvolvido por:  <a href=http://www.dnsdigitaltech.com.br/>DNS D
 type: theme
 version: VERSION
 core_version_requirement: ^8 || ^9
-base theme: stable
+base theme: false
 screenshot: mytheme.png
 
 regions:
   header: Header
+  #mythememenu: 'Navigation'
+  navigation: 'Navigation'
   content: Content
-  sidebar_first: Sidebar
+  sidebar_first: Sidebar First
   footer: Footer
   page_top: Page top
   page_bottom: Page bottom
