@@ -1,13 +1,3 @@
-{{ dpm(content.field_atores['#items'].getValue()) }}
-
-{{ dpm(content.field_mostrar_post['#items'].getValue()) }}
-
-
-{{ content.field_atores['#items'].getValue|last.value }}
-
-{% for actor in  content.field_atores['#items'].getValue() %}
-    {{ actor.value }} <br/>
-{% endfor %}
 {% if content.field_mostrar_post['#items'].getValue()|first.value == "1" %}
     <div class="movie-poster">
         {{ content.field_postar_filme }}
